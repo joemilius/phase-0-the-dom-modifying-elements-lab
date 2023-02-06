@@ -9,3 +9,5 @@ newHeader.setAttribute('id', 'victory');
 newHeader.innerHTML = "<h1>Joe is the champion</h1>";
 
 document.body.appendChild(newHeader);
+
+const button = document.createElement('button')
